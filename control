@@ -1,0 +1,12 @@
+Package: com.julioverne.fiona
+Name: Fiona
+Author: julioverne
+Version: 0.1
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Description: Keep WiFi Always Connected
+Homepage: https://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
