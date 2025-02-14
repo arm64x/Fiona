@@ -1,6 +1,7 @@
 #import <objc/runtime.h>
 #import <notify.h>
 #import <substrate.h>
+#include <dlfcn.h>
 
 #undef HBLogError
 #define HBLogError(...)
